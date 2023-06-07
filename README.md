@@ -12,12 +12,14 @@
 
 ## Clone this Repo
 Step 1: Go to [Pyfhel](https://github.com/ibarrond/Pyfhel), clone and install this magnificant repo first! 🥰
-* Change the directry to the Pyfhel after successful installation.
+
+Step 2: Clone this repo
+* Change the directry to the installed Pyfhel folder.
 ```
 cd Pyfhel
 ```
 
-Step 2: Clone this repo with the following code
+* Clone this repo inside the Pyfhel folder with the following code
 ```
 git clone https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption
 ```
