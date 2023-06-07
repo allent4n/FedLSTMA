@@ -11,7 +11,7 @@
 <img width="464" alt="simulation" src="https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption/assets/78404109/9e907cdf-c530-42ef-9aed-f2111f64d265">
 
 ## Clone this Repo
-Step 1: Go to [Pyfhel](https://github.com/ibarrond/Pyfhel), clone and install this magnificant repo first! 🥰
+Step 1: Go to [Pyfhel](https://github.com/ibarrond/Pyfhel), follow the steps tp clone and install this magnificant repo first! 🥰
 
 Step 2: Clone this repo
 * Change the directry to the installed Pyfhel folder.
