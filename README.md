@@ -19,6 +19,7 @@
 
 ## Results
 <img width="404" alt="image" src="https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption/assets/78404109/0ac66ee9-7824-4131-923a-b451bffeb538">
+
 Performance of Global Model of FedLSTMA and Traditional Centralized Machine Learning Approach (Baseline) under Four Different Local Sites
 
 
