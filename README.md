@@ -1,5 +1,5 @@
-# federated-learning-with-fully-homomorphic-encryption (FHE) 🥇
-## This is an implementation of the paper: ***Privacy-Preserving Federated Learning for Proactive Maintenance of IoT-Empowered Multi-Location Smart City Facilities***. 
+# FedLSTMA
+## This is an official implementation of the paper: ***Privacy-Preserving Federated Learning for Proactive Maintenance of IoT-Empowered Multi-Location Smart City Facilities***. 
 ### In this Repo, we aim at filling the gap of privacy-preserving federated learning framework by providing a federated LSTM Autoencoder model (FedLSTMA) for proactive maintenance of public smart toilets (i.e., public toilets equipped with IoT sensors). 
 ### Thanks to [Pyfhel](https://github.com/ibarrond/Pyfhel), we are able to provide an effective and efficient way to do model update encryption based on the FHE manner.
 
