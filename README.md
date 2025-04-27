@@ -18,7 +18,7 @@
 Detailed results can be found in the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804524001735).
 
 
-## Clone this Repo
+## QuickStart
 Step 1: Go to [Pyfhel](https://github.com/ibarrond/Pyfhel), follow the steps to clone and install this magnificant repo first! 🥰
 
 Step 2: Clone this repo
