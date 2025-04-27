@@ -35,3 +35,5 @@ cd Pyfhel
 ```
 git clone https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption
 ```
+
+* Run the code
