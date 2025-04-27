@@ -37,3 +37,17 @@ git clone https://github.com/allent4n/federated-learning-with-fully-homomorphic-
 ```
 python <cite>/main.py         # run main.py from each sub-folder, cite can be female/male/office/shop and server
 ```
+
+## 🔎 Citation
+
+```
+@article{tan2024privacy,
+  title={Privacy-preserving federated learning for proactive maintenance of IoT-empowered multi-location smart city facilities},
+  author={Tan, Zu-Sheng and See-To, Eric WK and Lee, Kwan-Yeung and Dai, Hong-Ning and Wong, Man-Leung},
+  journal={Journal of Network and Computer Applications},
+  volume={231},
+  pages={103996},
+  year={2024},
+  publisher={Elsevier}
+}
+```
