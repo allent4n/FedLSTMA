@@ -33,4 +33,5 @@ git clone https://github.com/allent4n/federated-learning-with-fully-homomorphic-
 ```
 
 * Run the code (Note: ***this code will initalize the real network connections among different cites***)
-run the main.py under each sub-folder (female/male/office/shop and server)
+
+Run the main.py under each sub-folder (female/male/office/shop and server)
