@@ -11,15 +11,11 @@
 ### LSTM-based Autoencoder
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/f8a679f3-51f4-4728-b141-3223e8981b99" />
 
-1. Generate input-like output
-2. If the loss is larger than a threshold, then consider the device is in abnormal status.
 
 ## Results
 <img width="404" alt="image" src="https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption/assets/78404109/0ac66ee9-7824-4131-923a-b451bffeb538">
 
-
-
-Performance of Global Model of FedLSTMA and Traditional Centralized Machine Learning Approach (Baseline) under Four Different Local Sites
+Detailed results can be found in the [paper](https://www.sciencedirect.com/science/article/abs/pii/S1084804524001735).
 
 
 ## Clone this Repo
@@ -36,4 +32,5 @@ cd Pyfhel
 git clone https://github.com/allent4n/federated-learning-with-fully-homomorphic-encryption
 ```
 
-* Run the code
+* Run the code (Note: ***this code will initalize the real network connections among different cites***)
+run the main.py under each sub-folder (female/male/office/shop and server)
